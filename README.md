@@ -2,7 +2,14 @@
 start
 
 ## Create a project scaffold
-*create development environment that is cloud-based: Github Codesapces, Colab Naotbook, AWS cloudshell, AWS Cloud9
+*create development environment that is cloud-based
+### Colab Naotbook
+* 
+### Github Codesapces
+
+### AWS cloudshell
+
+### AWS Cloud9
 
 # Command-lines Tools
 
