@@ -4,7 +4,7 @@ start
 ## Create a project scaffold
 *create development environment that is cloud-based
 ### Colab Naotbook
-* 
+* example: 
 ### Github Codesapces
 
 ### AWS cloudshell
