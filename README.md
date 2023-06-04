@@ -16,6 +16,9 @@ Build out Python scaffold:
 * command0line-tool
 * Mircoservices
 
+1. Create a virtualenvironment: `virtualenv ~/.venv`
+2. edit my `~/.bashrc`
+
 ### AWS cloudshell
 
 ### AWS Cloud9
