@@ -17,7 +17,8 @@ Build out Python scaffold:
 * Mircoservices
 
 1. Create a virtualenvironment: `virtualenv ~/.venv`
-2. edit my `~/.bashrc`
+2. edit my `~/.bashrc`  `source ~/.venv/bin/activate`
+3. make all
 
 ### AWS cloudshell
 
