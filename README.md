@@ -30,3 +30,10 @@ Build out Python scaffold:
 
 # Containerized Continuous Delivery
 
+## build docker image
+### `docker build -t python-4-devops-2023 . `
+### check image list `docker image ls`
+### run docker image (locally) `docker run -p 127.0.0.1:8080:8080 <image id>`
+### access services `curl http://0.0.0.0:8080`
+
+
